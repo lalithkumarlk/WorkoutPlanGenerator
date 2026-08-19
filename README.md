@@ -41,6 +41,11 @@ Fill in the form with your fitness profile:
 - **Injuries or Limitations** *(optional)* — e.g. "bad knees", "no overhead pressing"
 
 Click **Generate Plan** to get a day-by-day weekly workout plan.
+Click **Download Plan** Download Plan with txt or md file.
+
+## Sample Output
+
+[View Sample Output](Output.pdf)
 
 ## Tech Stack
 
