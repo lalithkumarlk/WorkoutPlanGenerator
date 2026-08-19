@@ -6,12 +6,12 @@ A single-page Streamlit app that generates personalized workout plans using AI v
 
 1. Clone the repo and navigate to the project folder:
    ```bash
-   cd assignments/WorkoutPlanGenerator
+   cd WorkoutPlanGenerator
    ```
 
 2. Activate the virtual environment:
    ```bash
-   source /Users/lalithkumar/Documents/LK-Tutorials/.venv/bin/activate
+   source /.venv/bin/activate
    ```
 
 3. Install dependencies:
